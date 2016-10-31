@@ -1,0 +1,22 @@
+{
+  "name": "node_project",
+  "version": "1.0.0",
+  "description": "Nodejs project from freecodecamp",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ofuochi/node_project.git"
+  },
+  "author": "Fortune",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ofuochi/node_project/issues"
+  },
+  "homepage": "https://github.com/ofuochi/node_project#readme",
+  "dependencies": {
+    "through2-map": "^2.0.0"
+  }
+}
